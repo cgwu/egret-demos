@@ -1,0 +1,21 @@
+{
+    "file": "sprite-sheet-test.png",
+    "frames": {
+        "flower": {
+            "x": 1,
+            "y": 1,
+            "w": 200,
+            "h": 177
+        },
+        "hudie": {
+            "x": 1,
+            "y": 180,
+            "w": 171,
+            "h": 151,
+            "offX": 5,
+            "offY": 14,
+            "sourceW": 180,
+            "sourceH": 180
+        }
+    }
+}

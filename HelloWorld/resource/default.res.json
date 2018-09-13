@@ -1,0 +1,56 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json",
+			"name": "preload"
+		},
+		{
+			"keys": "hudie_png,tooltip,tooltip2,sprite-sheet-test_json,matouqin_mp3",
+			"name": "testgroup"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/bg.jpg",
+			"type": "image",
+			"name": "bg_jpg"
+		},
+		{
+			"url": "assets/egret_icon.png",
+			"type": "image",
+			"name": "egret_icon_png"
+		},
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "assets/hudie.png",
+			"type": "image",
+			"name": "hudie_png"
+		},
+		{
+			"url": "assets/tooltip.png",
+			"type": "image",
+			"name": "tooltip",
+			"scale9grid": "19,9,110,40"
+		},
+		{
+			"url": "assets/tooltip.png",
+			"type": "image",
+			"name": "tooltip2"
+		},
+		{
+			"url": "assets/sprite-sheet-test.json",
+			"type": "sheet",
+			"name": "sprite-sheet-test_json",
+			"subkeys": "flower,hudie"
+		},
+		{
+			"url": "assets/matouqin.mp3",
+			"type": "sound",
+			"name": "matouqin_mp3"
+		}
+	]
+}

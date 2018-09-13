@@ -1,0 +1,40 @@
+{
+	"initial": [
+		"libs/modules/egret/egret.js",
+		"libs/modules/egret/egret.web.js",
+		"libs/modules/game/game.js",
+		"libs/modules/tween/tween.js",
+		"libs/modules/assetsmanager/assetsmanager.js",
+		"libs/modules/promise/promise.js"
+	],
+	"game": [
+		"bin-debug/MyCard.js",
+		"bin-debug/AddView.js",
+		"bin-debug/BitMapRepeatTest.js",
+		"bin-debug/BitMapTest.js",
+		"bin-debug/Card.js",
+		"bin-debug/CardMain.js",
+		"bin-debug/DepthTest.js",
+		"bin-debug/DrawDemo.js",
+		"bin-debug/GraphicsTest.js",
+		"bin-debug/HelloWorldEx.js",
+		"bin-debug/HitTest.js",
+		"bin-debug/LoadingUI.js",
+		"bin-debug/Main.js",
+		"bin-debug/MaskDemo.js",
+		"bin-debug/AnchorTest.js",
+		"bin-debug/NetDemo.js",
+		"bin-debug/NetPost.js",
+		"bin-debug/Platform.js",
+		"bin-debug/SoundTest.js",
+		"bin-debug/SpriteSheetTest.js",
+		"bin-debug/TextTest.js",
+		"bin-debug/TimerTest.js",
+		"bin-debug/TouchEventTest.js",
+		"bin-debug/TweenAnimateTest.js",
+		"bin-debug/datedemo/Boy.js",
+		"bin-debug/datedemo/DateEvent.js",
+		"bin-debug/datedemo/Girl.js",
+		"bin-debug/datedemo/SimpleDate.js"
+	]
+}
